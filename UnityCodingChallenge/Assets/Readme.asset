@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: d9139a2683873cb4cb5e86cb4fcf0670, type: 3}
+  title: 'Creator Kit: Beginner Code'
+  sections:
+  - heading: What is a Creator Kit?
+    text: 'Creator Kits are short step-by-step tutorials which enable beginners to
+      gain a good understanding of Unity in around an hour. This Beginner Code kit
+      introduces you to the fundamentals of code; from understanding how to read a
+      script to creating your own variables and adjusting this top down action RPG. '
+    linkText: 
+    url: 
+  - heading: How do I use it?
+    text: We've written detailed tutorials that explore the project step by step.
+      You can find them on our Learn site.
+    linkText: Follow the tutorials
+    url: https://learn.unity.com/project/creator-kit-beginner-code
+  - heading: Got feedback?
+    text: Let us know what you think or ask any questions you might have on our forum.
+    linkText: Forum Thread
+    url: https://forum.unity.com/threads/creator-kit-beginner-code.732398/
+  loadedLayout: 1
